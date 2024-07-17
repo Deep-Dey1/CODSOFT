@@ -1,6 +1,6 @@
 # LinkedIn Profile: www.linkedin.com/in/deep-dey-959590270/
 # refrnce GitHub Repository: https://github.com/Deep-Dey1/CODSOFT/tree/main/Project1_MovieGenreClassification
-
+# The data sets are taken from kaggle: https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 # Lets start the code by importing necessary libraries
 import pandas as pd
