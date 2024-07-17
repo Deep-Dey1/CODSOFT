@@ -1,4 +1,4 @@
-# CODSOFT SEPTEMBER 2023 ML TASK 2 - Credit Card Fraud Detection
+# CODSOFT SEPTEMBER 2024 ML INTERN TASK 2 - Credit Card Fraud Detection
 
 ## Main Objective: *Fraud Credit Card Data Analysis and Detection*.
 
@@ -51,12 +51,15 @@ This repository contains Python code for detecting credit card fraud using a Ran
 - TQDM (`tqdm`)
 - **Imbalanced-Learn** (`imblearn`)
 
-### Check out Video Demonstration of this Project on my YouTube Channel:
+### Check out Video Demonstration of this Project on my Linkdin:
 
-> [Take me there](https://youtu.be/-ZdOvb067as?si=0QoocA3fwCnNjS94)
+> [Take me there](www.linkedin.com/in/deep-dey-959590270)
+
+## Resources and Refrences taken from :-
+>[Darshan S](https://github.com/azuregray/CodSoft-InternshipTasks/)
 
 ### Author
 
-Darshan S
-> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
+Deep Dey
+> Contact me @ [LinkedIn](www.linkedin.com/in/deep-dey-959590270)
 
