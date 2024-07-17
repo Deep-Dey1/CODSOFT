@@ -1,4 +1,4 @@
-# CODSOFT SEPTEMBER 2023 ML TASK 1 - Movie Genre Classification
+# CODSOFT JUNE-JULY 2024 ML INTERN TASK 1 - Movie Genre Classification
 
 ## Main Objective: *Movie Genre Learning, Identification and Classification*.
 
@@ -51,13 +51,15 @@ This folder contains Python code for a movie genre prediction system using Multi
 - NumPy (`numpy`)
 - Scikit-Learn (`scikit-learn`)
 - TQDM (`tqdm`)
+  
+## Resources and Refrences taken from :-
+>[Darshan S](https://github.com/azuregray/CodSoft-InternshipTasks/)
+### Check out Video Demonstration of this Project on my Linkdin:
 
-### Check out Video Demonstration of this Project on my YouTube Channel:
-
-> [Take me there](https://youtu.be/InSIB84O3Co?si=D3FlAk2JVehmfC1k)
+> [Take me there]()
 
 ### Author
 
-Darshan S
-> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
+Deep Dey
+> Contact me @ [LinkedIn]().
 
