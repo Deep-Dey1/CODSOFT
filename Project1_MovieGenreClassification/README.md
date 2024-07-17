@@ -53,7 +53,7 @@ This folder contains Python code for a movie genre prediction system using Multi
 - TQDM (`tqdm`)
   
 ## Resources and Refrences taken from :-
->[Darshan S]https://github.com/azuregray/CodSoft-InternshipTasks/
+>[Darshan S](https://github.com/azuregray/CodSoft-InternshipTasks/)
 ### Check out Video Demonstration of this Project on my Linkdin:
 
 > [Take me there]()
