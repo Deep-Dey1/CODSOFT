@@ -1,4 +1,4 @@
-# CODSOFT SEPTEMBER 2024 ML INTERN TASK 2 - Credit Card Fraud Detection
+# CODSOFT JUNE-JULY 2024 ML INTERN TASK 2 - Credit Card Fraud Detection
 
 ## Main Objective: *Fraud Credit Card Data Analysis and Detection*.
 
