@@ -1,4 +1,4 @@
-# CODSOFT SEPTEMBER 2023 ML TASK 3 - Spam SMS Detection
+# CODSOFT JUNE - JULY 2024 ML INTERN TASK 3 - Spam SMS Detection
 
 ## Main Objective: *Spam SMS Data Learning, Identification, Classification and generate a Statistical Report*.
 
@@ -45,13 +45,15 @@ This folder contains Python code for detecting spam SMS messages using Natural L
 - Scikit-Learn (`scikit-learn`)
 - TQDM (`tqdm`)
 
-### Check out Video Demonstration of this Project on my YouTube Channel:
+### Check out Video Demonstration of this Project on my Linkdin:
 
-> [Take me there](https://youtu.be/v35TquFBSVw?si=_6njO4PWjuPTH7hI)
+> [Take me there](www.linkedin.com/in/deep-dey-959590270)
+
+## Resources and Refrences taken from :-
+>[Darshan S](https://github.com/azuregray/CodSoft-InternshipTasks/)
 
 ### Author
 
-Darshan S
-> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
-
+Deep Dey
+> Contact me @ [LinkedIn](www.linkedin.com/in/deep-dey-959590270)
 
