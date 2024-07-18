@@ -53,7 +53,7 @@ This repository contains Python code for detecting credit card fraud using a Ran
 
 ### Check out Video Demonstration of this Project on my Linkdin:
 
-> [Take me there](www.linkedin.com/in/deep-dey-959590270)
+> [Take me there](https://www.linkedin.com/posts/deep-dey-959590270_codsoft-machinelearning-internship-activity-7219468420503732224-gVkY?utm_source=share&utm_medium=member_desktop)
 
 ## Resources and Refrences taken from :-
 >[Darshan S](https://github.com/azuregray/CodSoft-InternshipTasks/)

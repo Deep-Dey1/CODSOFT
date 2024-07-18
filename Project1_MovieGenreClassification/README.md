@@ -56,7 +56,7 @@ This folder contains Python code for a movie genre prediction system using Multi
 >[Darshan S](https://github.com/azuregray/CodSoft-InternshipTasks/)
 ### Check out Video Demonstration of this Project on my Linkdin:
 
-> [Take me there]()
+> [Take me there](https://www.linkedin.com/posts/deep-dey-959590270_codsoft-machinelearning-internship-activity-7219435569100050432--ibr?utm_source=share&utm_medium=member_desktop)
 
 ### Author
 

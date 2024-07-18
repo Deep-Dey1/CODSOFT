@@ -47,7 +47,7 @@ This folder contains Python code for detecting spam SMS messages using Natural L
 
 ### Check out Video Demonstration of this Project on my Linkdin:
 
-> [Take me there](www.linkedin.com/in/deep-dey-959590270)
+> [Take me there](https://www.linkedin.com/posts/deep-dey-959590270_codsoft-machinelearning-internship-activity-7219555478253522944-d2Dn?utm_source=share&utm_medium=member_desktop)
 
 ## Resources and Refrences taken from :-
 >[Darshan S](https://github.com/azuregray/CodSoft-InternshipTasks/)
