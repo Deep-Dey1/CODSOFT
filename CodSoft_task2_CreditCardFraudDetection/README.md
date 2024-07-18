@@ -61,5 +61,5 @@ This repository contains Python code for detecting credit card fraud using a Ran
 ### Author
 
 Deep Dey
-> Contact me @ [LinkedIn](www.linkedin.com/in/deep-dey-959590270)
+> Contact me @ [LinkedIn](www.linkedin.com/in/deep-dey-959590270/)
 

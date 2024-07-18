@@ -61,5 +61,5 @@ This folder contains Python code for a movie genre prediction system using Multi
 ### Author
 
 Deep Dey
-> Contact me @ [LinkedIn](www.linkedin.com/in/deep-dey-959590270).
+> Contact me @ [LinkedIn](www.linkedin.com/in/deep-dey-959590270/).
 
